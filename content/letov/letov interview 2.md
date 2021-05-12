@@ -42,8 +42,9 @@ L: Because it is founded on genuine Russian ideas and energies. Those people who
 
 [Break in the footage, question not heard]
 
-L: What we are doing is the raising a new generation of passionari* as explained by Lev Gumilev. New warriors who will come after us and who will inherit this land. So for example, there are obvious connections between generations. Grandfathers and grandchildren. Fathers and sons fall out. Those generations that should follow the one that we represent as Grazhdanskaya Oborona, they are against us. They are mostly businessmen, the bourgeoisie, the “New Russians”. But the next generation, 10-15 year olds, these are the people who understand and support us. They will take on the task of revolution. We are creating a new ideology. A new religion, like communism in 1917, with which they will win.
-* Concept from the thought of Lev Gumilev, a controversial Russian historian and ethnographer. According to him, the growth of ethnic groups is linked to passionarity, the ability for a group to give itself a cause beyond the personal interest. Passionarity comes in cycles and could wear down over time if it is not renewed by charismatic individuals with a spirit of self-sacrifice. Compare to Ibn Khaldun’s cycle of civilizations and the concept of asabiyya.
+L: What we are doing is the raising a new generation of passionari[^1] as explained by Lev Gumilev. New warriors who will come after us and who will inherit this land. So for example, there are obvious connections between generations. Grandfathers and grandchildren. Fathers and sons fall out. Those generations that should follow the one that we represent as Grazhdanskaya Oborona, they are against us. They are mostly businessmen, the bourgeoisie, the “New Russians”. But the next generation, 10-15 year olds, these are the people who understand and support us. They will take on the task of revolution. We are creating a new ideology. A new religion, like communism in 1917, with which they will win.
+
+[^1]: Concept from the thought of Lev Gumilev, a controversial Russian historian and ethnographer. According to him, the growth of ethnic groups is linked to passionarity, the ability for a group to give itself a cause beyond the personal interest. Passionarity comes in cycles and could wear down over time if it is not renewed by charismatic individuals with a spirit of self-sacrifice. Compare to Ibn Khaldun’s cycle of civilizations and the concept of asabiyya.
 
 I: Which ideas of fascism do you especially like?
 
@@ -51,9 +52,10 @@ L: First of all, it is the idea of heroism. The person is not a lowly weak indiv
 
 I: Why do you think that fascism and communism are almost gone? Well, not gone, but their powers are no longer as strong as before?
 
-L: I don’t think it’s gone. Quite the contrary. At first, the idea of democracy carried a certain myth in our country. Democracy as America. Specifically a myth. When it was unrealizable, when it was so far away, it seemed to carry the image of a sweet mirage. When this myth became a reality, it became so monstrous and scary. It birthed so much alienation and impoverishment among the people that now people instinctively go to either fascism, communism. To Barkashov*, to Anpilov**, or to us. It is an instinctive, subconscious wish to resist this trap of chaos and entropy into which our country was thrown.
-*Barkashov is a neo-Nazi who founded the Russian National Unity party. Very likely an informant.
-**Viktor Anpilov was the former head of the Trudovaya Rossiya, which refused to join the KPRF as they saw them as reformists. Played an active role in the 1993 Constitutional Crisis. Passed away in 2018.
+L: I don’t think it’s gone. Quite the contrary. At first, the idea of democracy carried a certain myth in our country. Democracy as America. Specifically a myth. When it was unrealizable, when it was so far away, it seemed to carry the image of a sweet mirage. When this myth became a reality, it became so monstrous and scary. It birthed so much alienation and impoverishment among the people that now people instinctively go to either fascism, communism. To Barkashov[^2], to Anpilov[^3], or to us. It is an instinctive, subconscious wish to resist this trap of chaos and entropy into which our country was thrown.
+
+[^2]: Barkashov is a neo-Nazi who founded the Russian National Unity party. Very likely an informant.
+[^3]: Viktor Anpilov was the former head of the Trudovaya Rossiya, which refused to join the KPRF as they saw them as reformists. Played an active role in the 1993 Constitutional Crisis. Passed away in 2018.
 
 
 I: How does your idea sound [audio cuts off]
