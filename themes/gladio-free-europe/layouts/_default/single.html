@@ -1,0 +1,88 @@
+{{ define "main" }}
+{{- $scratch := newScratch }}
+{{- $image := .Resources.GetMatch "cover.jpg" -}}
+{{- if  $image -}}
+  {{- $scratch.Set "image" "cover.jpg" }}
+{{- else -}}
+  {{ $scratch.Set "image" (relURL  "images/albumart.jpg") }}
+{{- end -}}
+
+
+{{- if .Params.episode }}
+<article class="page">
+<div class="episode-header">
+  <div class="episode-art">
+    <img src="{{ $image }}" alt="" />
+  </div>
+  <div class="episode-title">
+    <div class="div-block">
+      {{ if not .Date.IsZero }}
+        {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+        {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+
+        <div class="episode-date">{{ .PublishDate.Format $dateFormat }}</div>
+      {{end}}
+       <h1>{{ .Title }}</h1>
+       <div class="episode-summary">
+       {{ .Summary }} 
+       {{if .Params.author}}
+      <p>by {{.Params.author}}{{else}}{{ .Site.Params.author }}</p>
+      {{end}}
+       </div>
+    </div>
+  </div>
+</div>
+
+{{- else }}
+<article class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  {{ if not .Date.IsZero }}
+  {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+  {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+  <span class="post-date">{{ .PublishDate.Format $dateFormat }}</span>
+  {{end}}
+{{- end}}
+
+<div class="post">
+  <hr>
+
+{{ .Content }}
+
+{{ if .Params.categories }}
+
+  <p><strong>Related categories:</strong></p>
+
+  <ul>
+
+  {{ with .Params.categories }}
+  {{ range . }}
+  {{ $href := print (relURL "categories/") (urlize .) }}
+  <li><a href="{{ $href }}">{{ . }}</a></li>
+  {{ end }}
+  {{ end }}
+
+  </ul>
+
+{{ end }}
+
+{{ if .Params.tags }}
+
+  <p>
+    <div class="episode-tags">
+      <strong>Tagged:</strong>
+      {{ with .Params.tags }}
+      {{ range . }}
+      {{ $href := print (relURL "tags/") (urlize .) }}
+      <a href="{{ $href }}">{{ . }}</a>
+      {{ end }}
+      {{ end }}
+    </div>
+  </p>
+{{ end }}
+
+</div>
+
+
+</article>
+
+{{ end }}

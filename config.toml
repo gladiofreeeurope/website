@@ -1,0 +1,14 @@
+baseURL = "https://gladiofreeeurope.github.io/"
+languageCode = "en-us"
+title = "Gladio Free Europe"
+theme = "gladio-free-europe"
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+summaryLength = 70
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
+
+[params]
+  Subtitle = "a sort of movie, sort of history podcast"

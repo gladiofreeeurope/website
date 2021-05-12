@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<div class="episodes">
+  <h1>{{ .Title }}</h1>
+
+{{ range .Pages.ByPublishDate.Reverse }}
+
+<div class="episode">
+  <div class="cover">
+    <a href="{{ .RelPermalink }}">
+    {{ with .Resources }}
+      {{ with .GetMatch "{cover.*,*.jpg,*.png,*.jpeg}" }}
+        {{ $cover := .Resize "250x" }}
+        {{ with $cover }}
+          <img src="{{ .Permalink }}"/>      
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    </a>
+  </div>
+  <div class="description">
+    <h3>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+    {{ if gt (len .Summary) 0 }}
+      <p>
+        {{ .Summary | safeHTML }}
+      </p>
+   {{ end }}
+  </div>
+</div>
+{{ end }}
+</div> 
+
+{{ end }}
