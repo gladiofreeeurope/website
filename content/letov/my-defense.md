@@ -3,7 +3,7 @@ title: Lyrics for My Defense (1989)
 
 ---
 
-{{< youtube RW3ItR4LPMY >}}
+{{< youtube 9Fg-fhuDd6Y >}}
 
 ---
 

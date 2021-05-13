@@ -2,7 +2,7 @@
 title: Lyrics for About A Fool (1990)
 ---
 
-{{< youtube xn-kNOhoeMM >}}
+{{< youtube z-dFAvux5Vg >}}
 
 ---
 

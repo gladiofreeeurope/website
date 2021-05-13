@@ -2,7 +2,7 @@
 title: Lyrics for A Song About Lenin (1988)
 ---
 
-{{< youtube TMP7PxwrQjo >}}
+{{< youtube c8RWxHnvxWI >}}
 
 ---
 
