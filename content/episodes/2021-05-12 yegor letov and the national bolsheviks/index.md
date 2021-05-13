@@ -43,12 +43,14 @@ Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter
 * [Translated Letov TV interview #2](/letov/letov-interview-2/) 
 <!-- -->
 * [Lyrics for Harakiri](/letov/harakiri/)
+* [Lyrics for A Song About Lenin](/letov/a-song-about-lenin)
+* [Lyrics for About A Fool](/letov/about-a-fool)
 * [Lyrics for Government](/letov/government/)
+* [Lyrics for Everything's As It Should Be](/letov/as-it-should-be)
+* [Lyrics for Mein Kampf](/letov/adolf-gitler/)
 * [Lyrics for Everything's Going According to Plan](/letov/everythings-going-according-to-plan/)
+* [Lyrics for My Defense](/letov/my-defense/)
 * [Lyrics for Motherland](/letov/motherland/)
-* [Lyrics for About A Fool](letov/about a fool)
-* [Lyrics for Everything's As It Should Be](letov/as it should be)
-* [Lyrics for I Will Always Be Against](letov/i will always be against)
-* [Lyrics for My Defense](letov/mydefense)
-* [Lyrics for A Song About Lenin](letov/a song about lenin)
-* [Lyrics for Mein Kampf](letov/adolf gitler)
+* [Lyrics for I Will Always Be Against](/letov/i-will-always-be-against/)
+
+
