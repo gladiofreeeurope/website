@@ -7,7 +7,7 @@ title: Lyrics for I Will Always Be Against (1988)
 ---
 
 Falling into ditches, smelling the stench of corpses \
-Solving the problems of global humanism \
+Solving the problems of global communism \
 In circle after circle of darkness, communists march forward! \
 The source of objections packaged by the Sovdep[^1]!
 
