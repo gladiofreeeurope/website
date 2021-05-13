@@ -7,7 +7,7 @@ summary: The Soviet Union, Punk Rock, Communism, KGB repression, Fascism, and mo
 tags: ["music", "punk", "nazbol", "USSR"]
 ---
 
-In 1984 Siberian singer and songwriter Yegor Letov founded Grazhdanskaya Oborona (Civil Defense), which went on to be the Soviet Union's most famous underground punk band, and made Letov one of its most famous musicians. Then in 1993 he co-founded the National Bolshevik Party, the now banned extremist political party that hoped to unite far right and far left forces. We discuss him, his music, and his journey from punk rock to punk politics.
+In 1984 Siberian singer and songwriter Yegor Letov founded Grazhdanskaya Oborona (Civil Defense), which went on to be the Soviet Union's most famous underground punk band, making Letov one of its most famous musicians. Then in 1993 he co-founded the National Bolshevik Party, the now banned extremist political party that hoped to unite far right and far left forces. We discuss him, his music, and his journey from punk rock to punk politics.
 
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
