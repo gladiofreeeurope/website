@@ -51,3 +51,5 @@ Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter
 * [Lyrics for I Will Always Be Against](letov/i will always be against)
 * [Lyrics for My Defense](letov/mydefense)
 * [Lyrics for A Song About Lenin](letov/a song about lenin)
+* [Lyrics for Mein Kampf](letov/adolf gitler)
+* 
