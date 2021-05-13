@@ -1,4 +1,5 @@
 ---
+
 title: "Yegor Letov and the National Bolsheviks"
 date: 2021-05-12T00:00:00-04:00
 episode: true
@@ -45,3 +46,8 @@ Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter
 * [Lyrics for Government](/letov/government/)
 * [Lyrics for Everything's Going According to Plan](/letov/everythings-going-according-to-plan/)
 * [Lyrics for Motherland](/letov/motherland/)
+* [Lyrics for About A Fool](letov/about a fool)
+* [Lyrics for Everything's As It Should Be](letov/as it should be)
+* [Lyrics for I Will Always Be Against](letov/i will always be against)
+* [Lyrics for My Defense](letov/mydefense)
+* [Lyrics for A Song About Lenin](letov/a song about lenin)
