@@ -17,10 +17,10 @@ Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter
 
 ### Songs featured in this episode
 * [Grazhdanskaya Oborona – Harakiri](https://www.youtube.com/watch?v=XaF0GB58G_A)
-* [Grazhdanskaya Oborona – Song About Lenin](https://www.youtube.com/watch?v=c8RWxHnvxWI)
+* [Grazhdanskaya Oborona – A Song About Lenin](https://www.youtube.com/watch?v=c8RWxHnvxWI)
 * [Grazhdanskaya Oborona – About a Fool](https://www.youtube.com/watch?v=z-dFAvux5Vg)
 * [Grazhdanskaya Oborona – Government](https://www.youtube.com/watch?v=IXdUmBJQAKM)
-* [Grazhdanskaya Oborona – Everything is As It Should Be (Everything is like what people have)](https://www.youtube.com/watch?v=c0bZVAJvEtk)
+* [Grazhdanskaya Oborona – Everything's As It Should Be](https://www.youtube.com/watch?v=c0bZVAJvEtk)
 * [Adolf Gitler – Mein Kampf](https://www.youtube.com/watch?v=H_BoeI2-E4w)
 * [Yanka – Overabundance of Wit](https://www.youtube.com/watch?v=ZB6VobpbxDE)
 * [Kommunizm – I See Nothing](https://www.youtube.com/watch?v=XMtctSjB0Mo)
