@@ -1,9 +1,7 @@
 ---
-
 title: "Yegor Letov and the National Bolsheviks"
 date: 2021-05-12T00:00:00-04:00
 episode: true
-draft: true
 summary: The Soviet Union, Punk Rock, Communism, KGB repression, Fascism, and more in this episode about Siberian singer and songwriter Yegor Letov
 tags: ["music", "punk", "nazbol", "USSR"]
 ---
