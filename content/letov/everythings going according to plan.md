@@ -42,3 +42,6 @@ I woke up in the middle of the night and understood that everything is going acc
 
 [^1]: Archaic word for father. Also used to refer to priests 
 [^2]: Russian language magazine about North Korea
+
+---
+This song was featured on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)

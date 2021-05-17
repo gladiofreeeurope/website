@@ -56,3 +56,6 @@ He is always, always alive!
 Lenin lived, Lenin lives, Lenin will live \
 Lenin will, will, will \
 Lenin, Lenin he will live!
+
+---
+This song was featured on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)

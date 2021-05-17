@@ -45,3 +45,6 @@ KILL THE GOVERNMENT WITHIN YOU!
 Kill!
 
 [^1]: possibly a reference to Brezhnev
+
+---
+This song was featured on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)

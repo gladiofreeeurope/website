@@ -36,3 +36,6 @@ He was drained of hope and all that he could \
 But you’ve all stayed as you were! 
 
 [^1]: Mamai was one of the heads of the Golden Horde 
+
+---
+This song was featured on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)

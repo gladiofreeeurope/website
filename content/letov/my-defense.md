@@ -45,3 +45,6 @@ Oh - my defense \
 A glimmer of light of a glass world
 
 Oh - my defense
+
+---
+This song was featured on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)

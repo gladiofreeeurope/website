@@ -267,3 +267,6 @@ L: I’ll say something else. There is truth, and then there’s *truth*. There 
 I: People also die from rotting. Say something to our guys, the ones who came to your concert. They thanked me. Why don’t you thank them?
 
 L: Thank you, I’m very grateful. I’m very happy that this happened. I’m very surprised that there are so many people in Norilsk who are truly alive. This has been one of the best concerts… The two concerts we’ve had here, they were the best we’ve ever had. I am insanely happy. Thank you so much. 
+
+---
+We discussed this interview on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)

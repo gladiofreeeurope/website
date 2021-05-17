@@ -123,3 +123,6 @@ L: These are people who are not just tired of the system, they’ve been driven 
 I: Do you think [cut off]
 
 L: - Russian Revolution, not ideologically. At the very least it does not happen on the level of ideology. They happen emotionally. The animating force behind revolutions are emotions, not ideology. Ideologies come to replace them. Revolt comes first. A revolt directed against all ideologies in the end.
+
+---
+We discussed this interview on the episode [Yegor Letov and the National Bolsheviks](/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/)
