@@ -12,7 +12,7 @@ We’re joined by our friend James to discuss this movie, the brutality Ireland 
 
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), [Halal Sam](https://twitter.com/halaljew), and [James](https://twitter.com/gommunisd).
 
-*Correction*: At () Liam says that Soviet Russia was the first country to recognize Ireland. Although the Soviets took an early interest in the Irish War of Independence, diplomatic recognition did not happen at this time because Eamon De Valera feared that following through would antagonize the United States, and the Soviets had begun to negotiate the Anglo-Soviet Trade Agreement. The Republic of Ireland would not recognize the Soviet Union until 1973! 
+*Correction*: At 15:30 Liam says that Soviet Russia was the first country to recognize Ireland. Although the Soviets took an early interest in the Irish War of Independence, diplomatic recognition did not happen at this time because Eamon De Valera feared that following through would antagonize the United States, and the Soviets had begun to negotiate the Anglo-Soviet Trade Agreement. The Republic of Ireland would not recognize the Soviet Union until 1973! 
 
 
 {{< spotify 7uU8l7XAd0WJwUWmATs1OO >}}
