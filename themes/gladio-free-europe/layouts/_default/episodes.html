@@ -19,6 +19,7 @@
     </a>
   </div>
   <div class="description">
+    <div class="date">{{ .Date.Format "Jan 2, 2006" }}</div>
     <h3>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h3>
@@ -30,6 +31,7 @@
   </div>
 </div>
 {{ end }}
+<hr>
 </div> 
 
 {{ end }}

@@ -109,7 +109,7 @@
   max-width: 600px;
   margin: 2em auto 0;
   padding-top: 0.5em;
-  border-top: 3px solid $gray-5;
+  border-top: 2px solid $gray-5;
   font-size: 14px;
   font-family: $code-font-family;
   strong {
@@ -139,14 +139,17 @@
     padding-top: 1rem;
     margin-top: 1rem;
     .cover {
-      width: 25%;
+      max-width: 25%;
       flex-shrink: 0;
     }
     .description {
-      width: 75%;
+      min-width: 75%;
       padding-left: 1rem;
+      .date {
+        font-size: 16px;
+      }
       h3 {
-        margin-top: 1rem;
+        margin-top: 0.5rem;
       }
     }
   }
@@ -167,6 +170,10 @@
 .episode-list {
   max-width: 720px;
   margin: 0 auto 3rem;
+  .all-episodes {
+    border-top: 2px solid $gray-5;
+    padding-top: 0.5rem;
+  }
 }
 
 @media screen and (max-width: 991px) {
