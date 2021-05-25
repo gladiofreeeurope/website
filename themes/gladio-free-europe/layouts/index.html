@@ -59,8 +59,8 @@
       <div class="episode">
         <div class="cover">
           <a href="{{ .RelPermalink }}">
-            {{ with .Resources }} {{ with .GetMatch "{cover.jpg,}" }} {{ $cover
-            := .Resize "100x" }} {{ with $cover }}
+            {{ with .Resources }} {{ with .GetMatch "cover.jpg" }} {{ $cover :=
+            .Resize "100x" }} {{ with $cover }}
             <img src="{{ .Permalink }}" />
             {{ end }} {{ end }} {{ end }}
           </a>
