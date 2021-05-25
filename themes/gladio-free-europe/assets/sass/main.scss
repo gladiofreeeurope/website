@@ -162,8 +162,8 @@
     margin-bottom: 1rem;
   }
   img {
-    width: 165px;
-    margin: 0;
+    width: 52px;
+    margin: 0 12px 12px 0;
   }
 }
 
@@ -191,6 +191,17 @@
     margin-top: 25px;
     padding-right: 0px;
     padding-left: 0px;
+    width: 100%;
+  }
+}
+
+figure {
+  margin: 1rem auto;
+}
+
+figure.audio {
+  max-width: 600px;
+  audio {
     width: 100%;
   }
 }
