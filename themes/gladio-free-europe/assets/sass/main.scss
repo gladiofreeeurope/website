@@ -161,9 +161,13 @@
   h3 {
     margin-bottom: 1rem;
   }
+  img:hover {
+    transform: scale(1.16667);
+  }
   img {
     width: 52px;
     margin: 0 12px 12px 0;
+    transition: transform 0.2s ease;
   }
 }
 

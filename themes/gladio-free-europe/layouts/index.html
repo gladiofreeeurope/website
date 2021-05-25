@@ -7,28 +7,48 @@
     </div>
     <div class="episode-title">
       <div class="div-block">
-          <div class="episode-date"></div>
-          <h1>{{ .Title }}</h1>
-          <div class="episode-summary">
+        <div class="episode-date"></div>
+        <h1>{{ .Title }}</h1>
+        <div class="episode-summary">
           <p>
-            What does Israeli hip-hop tell us about the second Intifada? What does Siberian Punk tell us about the Soviet Union, or 90's comedies about American media and politics?
-            Join us every Wednesday as we, Liam, Sam, Sam, and Abram, take a deep dive into pop culture and discuss world history.
+            What does Israeli hip-hop tell us about the second Intifada? What
+            does Siberian Punk tell us about the Soviet Union, or 90's comedies
+            about American media and politics? Join us every Wednesday as we,
+            Liam, Sam, Sam, and Abram, take a deep dive into pop culture and
+            discuss world history.
           </p>
-         </div>
+        </div>
       </div>
     </div>
   </div>
   <div class="badges">
     <h3>Ways to listen</h3>
     <div>
-      <a href="https://podcasts.apple.com/podcast/id1556555696"><img src="/images/badges/apple.svg"  alt="Apple Podcasts"></a>
-      <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDg1NWE4Yy9wb2RjYXN0L3Jzcw"><img src="/images/badges/google.svg" alt="Google Podcasts"></a>
-      <a href="https://open.spotify.com/show/1bO1P22yZMrvWMTiCDAdkk"><img src="/images/badges/spotify.svg" alt="Spotify"></a>
-      <a href="https://www.stitcher.com/show/gladio-free-europe"><img src="/images/badges/stitcher.svg" alt="Stitcher"></a>
-      <a href="https://overcast.fm/itunes1556555696"><img src="/images/badges/overcast.svg" alt="Overcast"></a>
-      <a href="https://pca.st/l5bx24li"><img src="/images/badges/pocketcasts.svg" alt="Pocket Casts"></a>
-      <a href="https://podcastaddict.com/podcast/3278118"><img src="/images/badges/podcastaddict.svg" alt="Podcast Addict"></a>
-      <a href="https://anchor.fm/s/4d855a8c/podcast/rss"><img src="/images/badges/rss.svg" alt="RSS"></a>
+      <a href="https://podcasts.apple.com/podcast/id1556555696"
+        ><img src="/images/badges/apple.svg" alt="Apple Podcasts"
+      /></a>
+      <a
+        href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDg1NWE4Yy9wb2RjYXN0L3Jzcw"
+        ><img src="/images/badges/google.svg" alt="Google Podcasts"
+      /></a>
+      <a href="https://open.spotify.com/show/1bO1P22yZMrvWMTiCDAdkk"
+        ><img src="/images/badges/spotify.svg" alt="Spotify"
+      /></a>
+      <a href="https://www.stitcher.com/show/gladio-free-europe"
+        ><img src="/images/badges/stitcher.svg" alt="Stitcher"
+      /></a>
+      <a href="https://overcast.fm/itunes1556555696"
+        ><img src="/images/badges/overcast.svg" alt="Overcast"
+      /></a>
+      <a href="https://pca.st/l5bx24li"
+        ><img src="/images/badges/pocketcasts.svg" alt="Pocket Casts"
+      /></a>
+      <a href="https://podcastaddict.com/podcast/3278118"
+        ><img src="/images/badges/podcastaddict.svg" alt="Podcast Addict"
+      /></a>
+      <a href="https://anchor.fm/s/4d855a8c/podcast/rss"
+        ><img src="/images/badges/rss.svg" alt="RSS"
+      /></a>
     </div>
   </div>
   <div class="episode-list episodes">
@@ -36,37 +56,31 @@
     {{ range where .Pages "Section" "episodes" }}
     <div>
       {{ range .Pages }}
-        <div class="episode">
-          <div class="cover">
-            <a href="{{ .RelPermalink }}">
-            {{ with .Resources }}
-              {{ with .GetMatch "{cover.*,*.jpg,*.png,*.jpeg}" }}
-                {{ $cover := .Resize "100x" }}
-                {{ with $cover }}
-                  <img src="{{ .Permalink }}"/>      
-                {{ end }}
-              {{ end }}
-            {{ end }}
-            </a>
-          </div>
-          <div class="description">
-            <div class="date">{{ .Date.Format "Jan 2, 2006" }}</div>
-            <h3>
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </h3>
-            {{ if gt (len .Summary) 0 }}
-              <p>
-                {{ .Summary | safeHTML }}
-              </p>
-           {{ end }}
-          </div>
+      <div class="episode">
+        <div class="cover">
+          <a href="{{ .RelPermalink }}">
+            {{ with .Resources }} {{ with .GetMatch "{cover.jpg,}" }} {{ $cover
+            := .Resize "100x" }} {{ with $cover }}
+            <img src="{{ .Permalink }}" />
+            {{ end }} {{ end }} {{ end }}
+          </a>
         </div>
+        <div class="description">
+          <div class="date">{{ .Date.Format "Jan 2, 2006" }}</div>
+          <h3>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h3>
+          {{ if gt (len .Summary) 0 }}
+          <p>{{ .Summary | safeHTML }}</p>
+          {{ end }}
+        </div>
+      </div>
       {{ end }}
       <div class="all-episodes">
         <a href="/episodes/">All Episodes</a>
       </div>
     </div>
-  {{ end }}
+    {{ end }}
   </div>
 </article>
 {{ end }}
