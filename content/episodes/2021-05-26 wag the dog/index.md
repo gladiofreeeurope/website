@@ -9,13 +9,13 @@ tags: [movie, war, albania, kosovo, clinton]
 
 [Wag the Dog](https://letterboxd.com/film/wag-the-dog/) is a movie about a White House that fakes going to war in Albania to bury the news of a President’s sex scandal. Exactly one month after the movie was released, the Monica Lewinsky affair was first made public. We go into the movie and the real world events it magically foretold.
 
-_Correction_: at 19:40 Liam says Green Room, but he meant [Green Zone](https://letterboxd.com/film/green-zone/) at 1:08:00 Liam says Good Old Shoe, but he meant Courage Mom. _Good Old Shoe_ is the folk blues song in the movie. _Courage Mom_ is the country song.
-
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
 <!--
 {{< spotify ___ >}}
 -->
+
+_Correction_: at 19:40 Liam says Green Room, but he meant [Green Zone](https://letterboxd.com/film/green-zone/). At 1:08:00 Liam says Good Old Shoe, but he meant Courage Mom. _Good Old Shoe_ is the folk blues song in the movie. _Courage Mom_ is the country song.
 
 ---
 
