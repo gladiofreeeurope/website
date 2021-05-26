@@ -1,8 +1,7 @@
 ---
 title: "Wag the Dog"
-date: 2021-05-21T01:00:00-04:00
+date: 2021-05-26T01:00:00-04:00
 episode: true
-draft: true
 summary: "The night before news of the President’s sex scandal is made public, the White House devises a plan to fake a war with Albania to distract the media, and the American public"
 tags: [movie, war, albania, kosovo, clinton]
 ---
@@ -11,15 +10,13 @@ tags: [movie, war, albania, kosovo, clinton]
 
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
-<!--
-{{< spotify ___ >}}
--->
+{{< spotify 4vVaV1QspPGqIOe55KqzHl >}}
 
 _Correction_: at 19:40 Liam says Green Room, but he meant [Green Zone](https://letterboxd.com/film/green-zone/). At 1:08:00 Liam says Good Old Shoe, but he meant Courage Mom. _Good Old Shoe_ is the folk blues song in the movie. _Courage Mom_ is the country song.
 
 ---
 
-{{< links "&nbsp;" >}}
+{{< links "https://anchor.fm/s/4d855a8c/podcast/play/34251884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-26%2F190289518-44100-2-405616ad7e556.m4a" >}}
 
 ---
 
@@ -28,7 +25,7 @@ _Correction_: at 19:40 Liam says Green Room, but he meant [Green Zone](https://l
 {{<figure
   src="movie-vs-reality.jpg"
   link="https://www.cnn.com/ALLPOLITICS/1998/01/24/clinton/"
-  caption="Still of the fictitious President looking at a firefly girl (left) and Lewinsky watching Clinton as he greets staff at the White House during a re-election celebration in November 1996 (right)." >}}
+  caption="The fictitious President looking at a firefly girl (left) and Lewinsky watching Clinton as he greets staff at the White House during a re-election celebration in November 1996 (right)." >}}
 
 ---
 
@@ -70,8 +67,8 @@ What’s must-see TV in Saddam Hussein’s Iraq? ABC News reports that a ”poor
 https://archive.nytimes.com/www.nytimes.com/library/world/africa/082198attack-wag.html
 
 {{<figure
-src="cartoons.jpg"
-link="/wag-the-dog-cartoons">}}
+  src="cartoons.jpg"
+  link="/wag-the-dog-cartoons">}}
 
 In the movie, the president's handlers invent a war to distract public attention from his sexual transgressions. In real life, was the Clinton administration doing something similar?
 
