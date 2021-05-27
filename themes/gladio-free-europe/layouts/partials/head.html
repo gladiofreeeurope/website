@@ -1,15 +1,61 @@
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
-    <meta name="google-site-verification" content="J3pj4z86dEKJNR2MFc3F_HvZg737o34nnm9J0tdq8nM" />
-    {{ with .OutputFormats.Get "rss" -}}
-        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-    {{ end -}}
-    {{ $title := print .Site.Title " | " .Title }}
-    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
-    <title>{{ $title }}</title>
-  {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
-  {{- $styles := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
-  <link rel = 'stylesheet' href = '{{ $styles.Permalink }}'>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+  <meta
+    name="google-site-verification"
+    content="J3pj4z86dEKJNR2MFc3F_HvZg737o34nnm9J0tdq8nM"
+  />
+  {{ $title := print .Site.Title " | " .Title }} {{ if .IsHome }}{{ $title =
+  .Site.Title }}{{ end }}
+  <title>{{ $title }}</title>
+  {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed"
+  "enableSourceMap" "true") -}} {{- $styles := resources.Get "sass/main.scss" |
+  resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options |
+  resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" />
+
+  <title>Gladio Free Europe • A sort of movie, sort of history postcast</title>
+  <meta name="description" content="a sort of movie, sort of history podcast" />
+  <meta name="keywords" content="podcast, history, movies" />
+  <link rel="canonical" href="https://gladiofreeeurope.github.io/" />
+
+  <meta property="og:site_name" content="Gladio Free Europe" />
+  <meta property="og:title" content="Gladio Free Europe" />
+  <meta
+    property="og:image"
+    content="https://gladiofreeeurope.github.io/images/albumart.jpg"
+  />
+  <meta
+    property="og:image:secure_url"
+    content="https://gladiofreeeurope.github.io/imag"
+  />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta
+    property="og:description"
+    content="a sort of movie, sort of history podcast"
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="https://gladiofreeeurope.github.io/" />
+
+  <meta name="twitter:site" content="@gladiofreeeuro" />
+  <meta name="twitter:title" content="Gladio Free Europe" />
+  <meta
+    name="twitter:description"
+    content="a sort of movie, sort of history podcast"
+  />
+  <meta
+    name="twitter:image"
+    content="https://gladiofreeeurope.github.io/imag"
+  />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <link
+    type="application/rss+xml"
+    rel="alternate"
+    title="Gladio Free Europe"
+    href="https://anchor.fm/s/4d855a8c/podcast/rss"
+  />
 </head>
