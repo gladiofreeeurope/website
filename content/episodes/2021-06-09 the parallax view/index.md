@@ -6,7 +6,7 @@ summary: "An ambitious reporter, investigating a senator’s assassination, real
 tags: [movie, conspiracy, kennedy]
 ---
 
-[The Parallax View](https://letterboxd.com/film/the-parallax-view/) starts with a spectacular public assassination of a popular senator atop the Seattle Space Needle. In the weeks after, many of the witnesses to the crime have died under mysterious circumstances. An ambitious reporter (Warren Beatty) investigating the senators death, discovers the Parallax Corporation, which he thinks is the key to understanding who or what is behind all of this.
+[The Parallax View](https://letterboxd.com/film/the-parallax-view/) starts with a spectacular public assassination of a popular senator atop the Seattle Space Needle. In the weeks after, many of the witnesses to the crime have died under mysterious circumstances. An ambitious reporter (Warren Beatty) investigating the Senator’s death, discovers the Parallax Corporation, which he thinks is the key to understanding who or what is behind all of this.
 
 We’re joined by our friend James to discuss the movie, and the real life political assassinations this movie reminds us of.
 
