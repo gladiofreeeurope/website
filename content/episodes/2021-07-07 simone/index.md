@@ -3,12 +3,14 @@ title: "S1m0ne ft. Pam"
 date: 2021-07-07T01:00:00-04:00
 episode: true
 summary: "What if all of the celebrity blokes were computers? Oi this is just like Black Mirror innit!"
-tags: [movie, music]
+tags: [movie, music, technology]
 ---
 
-In 2002, [S1m0ne](https://letterboxd.com/film/s1m0ne/) posed the question of what would happen if were to replace actors with  computers. What 20 years ago seemed like a fantasy in the realm of  science fiction has increasingly begun to rear its head in our world,  and we as a society are still grappling with the consequences and  implications of our increasingly virtual reality.
+In 2002, [S1m0ne](https://letterboxd.com/film/s1m0ne/) posed the question of what would happen if actors were to be replaced with computers. What 20 years ago seemed like a fantasy in the realm of science fiction has increasingly begun to rear its head in our world, and we as a society are still grappling with the consequences and implications of our increasingly virtual reality.
 
-Computer-generated actors, models, influencers, and pop stars, we’ve got them all on this week's episode.Hosted by [Liam](https://twitter.com/LegoRacers2), [Abram](https://twitter.com/abnormcore), and [Pam](https://twitter.com/buzzfeedjenny).
+Computer-generated actors, models, influencers, and pop stars, we’ve got them all on this week's episode.
+
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Abram](https://twitter.com/abnormcore), and [Pam](https://twitter.com/buzzfeedjenny).
 
 {{< spotify 0cxxv0URLXzjNWzp7TNfCx >}}
 
