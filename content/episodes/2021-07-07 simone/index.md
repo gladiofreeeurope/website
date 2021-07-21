@@ -2,7 +2,7 @@
 title: "S1m0ne ft. Pam"
 date: 2021-07-07T01:00:00-04:00
 episode: true
-summary: "What if all of the celebrity blokes were computers? Oi this is just like Black Mirror innit!"
+summary: "What if we replaced actors with computers? A thought provoking question that we're still grappling with the answer to 20 years later."
 tags: [movie, music, technology]
 ---
 
