@@ -6,7 +6,7 @@ summary: "A young man comes of age in West Beirut as his country descends into c
 tags: [movie, lebanon, war]
 ---
 
-In April, 1975, civil war breaks out; Beirut is partitioned into East and West Beirut, along the Christian/Muslim line. Tarek is in high school, making Super 8 movies with his friend, Omar. At first the war is a lark: school has closed, the violence is fascinating, getting from West to East is a game. But he soon learns this isn't a game as the war goes on, going from adventure to tragedy.
+In April, 1975, civil war breaks out; Beirut is partitioned into East and [West Beirut](https://letterboxd.com/film/west-beirut/), along the Christian/Muslim line. Tarek is in high school, making Super 8 movies with his friend, Omar. At first the war is a lark: school has closed, the violence is fascinating, getting from West to East is a game. But he soon learns this isn't a game as the war goes on, going from adventure to tragedy.
 
 Our friend Liam (aka Hezbolsonaro) comes on the pod to discuss the movie, and the Lebanese Civil War more broadly.
 
