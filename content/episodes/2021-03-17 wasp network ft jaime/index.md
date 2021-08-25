@@ -15,4 +15,3 @@ Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter
 ---
 
 {{< links "https://anchor.fm/s/4d855a8c/podcast/play/29184069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-16%2F165875635-44100-2-ac705c3a1cb1d.m4a" >}}
-

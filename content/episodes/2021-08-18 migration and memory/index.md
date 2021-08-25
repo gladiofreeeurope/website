@@ -2,7 +2,7 @@
 title: "Migration and Memory"
 date: 2021-08-18T01:00:00-04:00
 episode: true
-summary: "TWas King Arthur an Englishman? Did ancient Turks build every civilization in history?"
+summary: "Was King Arthur an Englishman? Did ancient Turks build every civilization in history?"
 tags: [history, england, turkey]
 ---
 
