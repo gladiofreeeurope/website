@@ -6,7 +6,7 @@ summary: "Les Rallizes Dénudés was a pioneer of the psychedelic drone rock sou
 tags: [music, japan, north korea]
 ---
 
-[Les Rallizes Dénudés](https://open.spotify.com/artist/1LxdCpPSFpzNBKyQI22aDz) was a pioneer of the psychedelic drone rock sound, but no one knows about them. With the help of our friend Zach, we get into their history and try to figure out what happened to derail this bands career.
+[Les Rallizes Dénudés](https://open.spotify.com/artist/1LxdCpPSFpzNBKyQI22aDz) were a pioneer of the psychedelic drone rock sound, but no one knows about them. With the help of our friend Zach, we get into their history and try to figure out what happened to derail this bands career.
 
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Abram](https://twitter.com/abnormcore), and [Zach](https://twitter.com/aperturegrillz).
 
