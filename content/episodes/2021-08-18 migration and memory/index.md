@@ -10,7 +10,7 @@ Was King Arthur an Englishman? Did ancient Turks build every civilization in his
 
 Liam, Sam, and Sam answer these questions and more as they dive into the mythology of nationalism and political abuses of the ancient past.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 3mtmaW0RGY1ua9q8qHh7jL >}}
 

@@ -8,7 +8,7 @@ tags: [movie, cryptid]
 
 [Nosferatu](https://letterboxd.com/film/nosferatu/) is the 1922 expressionist horror silent film whose creation is dramatized in the movie [Shadow of the Vampire](https://letterboxd.com/film/shadow-of-the-vampire/). We watched both these films and discuss both their stories, and the stories of how the vampire came to be in the popular imagination.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 6dYQUv2ZdSGtx01dW1twhJ >}}
 

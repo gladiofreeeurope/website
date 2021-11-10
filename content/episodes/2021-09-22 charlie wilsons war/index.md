@@ -8,7 +8,7 @@ tags: [war, united states, movie, military, afghanistan]
 
 Charlie Wilson was a Texas Congressman whose involvement with the Afghan people and the Mujahideen was immortalized in the film [Charlie Wilson's War](https://letterboxd.com/film/charlie-wilsons-war/). With the help of our friend Kevin, we try figure out who Charlie Wilson is really, and more importantly, what war is really.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), and [Kevin](https://twitter.com/ka_levin).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Kevin](https://twitter.com/ka_levin).
 
 {{< spotify 77XX2EWFtMoovhaZb8U94L >}}
 

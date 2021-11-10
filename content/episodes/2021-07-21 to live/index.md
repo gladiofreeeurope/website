@@ -10,7 +10,7 @@ tags: [movie, china]
 
 This film and its reception would also mirror a process which has been ongoing since the beginning of Xi Jinping's tenure: the battle against so-called "historical nihilism". We look to the CPC, and Xi himself, to learn what historical nihilism is and how we can fight against it.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), and [Cnut](https://twitter.com/cnut_real).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Cnut](https://twitter.com/cnut_real).
 
 {{< spotify 7oVlLQvqEMiibTYOuxmZdt >}}
 

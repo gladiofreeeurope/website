@@ -10,7 +10,7 @@ tags: [tv show, rome, germany]
 
 We discuss the show, and what we know of the real history that serves as inspiration for this Netflix dramatization.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), and [Abram](https://twitter.com/abnormcore).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Abram](https://twitter.com/abnormcore).
 
 {{< spotify 0nLBedBCPmHfzGVKCxjams >}}
 

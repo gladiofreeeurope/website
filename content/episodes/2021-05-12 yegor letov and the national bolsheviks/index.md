@@ -8,25 +8,25 @@ tags: ["music", "punk", "nazbol", "USSR"]
 
 In 1984 Siberian singer and songwriter Yegor Letov founded Grazhdanskaya Oborona (Civil Defense), which went on to be the Soviet Union's most famous underground punk band, making Letov one of its most famous musicians. Then in 1993 he co-founded the National Bolshevik Party, the now-banned extremist political party that hoped to unite far right and far left forces. We discuss him, his music, and his journey from punk rock to punk politics.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/OverproducedPMC), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
-
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
 {{< spotify 3XoslZtER0RcXwUKYsl8oX >}}
 
 ### Songs featured in this episode
-* [Grazhdanskaya Oborona – Harakiri](https://www.youtube.com/watch?v=XaF0GB58G_A)
-* [Grazhdanskaya Oborona – A Song About Lenin](https://www.youtube.com/watch?v=c8RWxHnvxWI)
-* [Grazhdanskaya Oborona – About a Fool](https://www.youtube.com/watch?v=z-dFAvux5Vg)
-* [Grazhdanskaya Oborona – Government](https://www.youtube.com/watch?v=IXdUmBJQAKM)
-* [Grazhdanskaya Oborona – Everything's As It Should Be](https://www.youtube.com/watch?v=c0bZVAJvEtk)
-* [Adolf Gitler – Mein Kampf](https://www.youtube.com/watch?v=H_BoeI2-E4w)
-* [Yanka – Overabundance of Wit](https://www.youtube.com/watch?v=ZB6VobpbxDE)
-* [Kommunizm – I See Nothing](https://www.youtube.com/watch?v=XMtctSjB0Mo)
-* [Grazhdanskaya Oborona – Everything's Going According To Plan](https://www.youtube.com/watch?v=XG7JRvtsh1U)
-* [Grazhdanskaya Oborona – My Defense](https://www.youtube.com/watch?v=9Fg-fhuDd6Y)
-* [Grazhdanskaya Oborona – Motherland](https://www.youtube.com/watch?v=QIRMDrVlkYM)
-* [Yegor and the fucked up – Gospel](https://www.youtube.com/watch?v=KxyCLgvGsws)
-* [Grazhdanskaya Oborona – The Unbearable Lightness of Being](https://www.youtube.com/watch?v=19yhVvO7RRY)
+
+- [Grazhdanskaya Oborona – Harakiri](https://www.youtube.com/watch?v=XaF0GB58G_A)
+- [Grazhdanskaya Oborona – A Song About Lenin](https://www.youtube.com/watch?v=c8RWxHnvxWI)
+- [Grazhdanskaya Oborona – About a Fool](https://www.youtube.com/watch?v=z-dFAvux5Vg)
+- [Grazhdanskaya Oborona – Government](https://www.youtube.com/watch?v=IXdUmBJQAKM)
+- [Grazhdanskaya Oborona – Everything's As It Should Be](https://www.youtube.com/watch?v=c0bZVAJvEtk)
+- [Adolf Gitler – Mein Kampf](https://www.youtube.com/watch?v=H_BoeI2-E4w)
+- [Yanka – Overabundance of Wit](https://www.youtube.com/watch?v=ZB6VobpbxDE)
+- [Kommunizm – I See Nothing](https://www.youtube.com/watch?v=XMtctSjB0Mo)
+- [Grazhdanskaya Oborona – Everything's Going According To Plan](https://www.youtube.com/watch?v=XG7JRvtsh1U)
+- [Grazhdanskaya Oborona – My Defense](https://www.youtube.com/watch?v=9Fg-fhuDd6Y)
+- [Grazhdanskaya Oborona – Motherland](https://www.youtube.com/watch?v=QIRMDrVlkYM)
+- [Yegor and the fucked up – Gospel](https://www.youtube.com/watch?v=KxyCLgvGsws)
+- [Grazhdanskaya Oborona – The Unbearable Lightness of Being](https://www.youtube.com/watch?v=19yhVvO7RRY)
 
 ---
 
@@ -35,20 +35,19 @@ Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter
 ---
 
 ### Further reading
-* ["Traces in the Snow" 2014 Russian documentary about the Siberian Punk scene in the 1980s](https://www.youtube.com/watch?v=LS-PyXXvA7E)
-<!-- -->
-* [Translated Letov TV interview #1](/letov/letov-interview-1/)
-* [Translated Letov TV interview #2](/letov/letov-interview-2/) 
-<!-- -->
-* [Lyrics for Harakiri](/letov/harakiri/)
-* [Lyrics for A Song About Lenin](/letov/a-song-about-lenin)
-* [Lyrics for About A Fool](/letov/about-a-fool)
-* [Lyrics for Government](/letov/government/)
-* [Lyrics for Everything's As It Should Be](/letov/as-it-should-be)
-* [Lyrics for Mein Kampf](/letov/adolf-gitler/)
-* [Lyrics for Everything's Going According to Plan](/letov/everythings-going-according-to-plan/)
-* [Lyrics for My Defense](/letov/my-defense/)
-* [Lyrics for Motherland](/letov/motherland/)
-* [Lyrics for I Will Always Be Against](/letov/i-will-always-be-against/)
 
-
+- ["Traces in the Snow" 2014 Russian documentary about the Siberian Punk scene in the 1980s](https://www.youtube.com/watch?v=LS-PyXXvA7E)
+<!-- -->
+- [Translated Letov TV interview #1](/letov/letov-interview-1/)
+- [Translated Letov TV interview #2](/letov/letov-interview-2/)
+<!-- -->
+- [Lyrics for Harakiri](/letov/harakiri/)
+- [Lyrics for A Song About Lenin](/letov/a-song-about-lenin)
+- [Lyrics for About A Fool](/letov/about-a-fool)
+- [Lyrics for Government](/letov/government/)
+- [Lyrics for Everything's As It Should Be](/letov/as-it-should-be)
+- [Lyrics for Mein Kampf](/letov/adolf-gitler/)
+- [Lyrics for Everything's Going According to Plan](/letov/everythings-going-according-to-plan/)
+- [Lyrics for My Defense](/letov/my-defense/)
+- [Lyrics for Motherland](/letov/motherland/)
+- [Lyrics for I Will Always Be Against](/letov/i-will-always-be-against/)
