@@ -1,5 +1,5 @@
 ---
-title: "Keivn Rus"
+title: "Kievan Rus'"
 date: 2021-11-17T01:00:00-04:00
 episode: true
 summary: "We venture into the eastern fringes of Europe to look at the origins of Russia, Ukraine, and Belarus: the Kievan Rus'"
