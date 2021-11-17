@@ -3,7 +3,7 @@ title: "Zionism ft. Kevin"
 date: 2021-10-20T01:00:00-04:00
 episode: true
 summary: "Our good friend Kevin is back to help use trace the roots of Zionism as an ideology and the various religious, colonialist, or nationalist strands that existed before 1948."
-tags: [israel, ideology, zionism]
+tags: [israel, ideology, zionism, palestine]
 ---
 
 Our good friend Kevin is back to help use trace the roots of Zionism as an ideology and the various religious, colonialist, or nationalist strands that existed before 1948.

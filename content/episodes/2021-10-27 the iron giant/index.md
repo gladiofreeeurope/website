@@ -3,7 +3,7 @@ title: "The Iron Giant ft. Daniel Bessner"
 date: 2021-10-27T01:00:00-04:00
 episode: true
 summary: "The Iron Giant asks us, how would American react if a sentient giant robot crash landed from space in the height of the Cold War?"
-tags: [united states, cold war, soviet union]
+tags: [usa, cold war, soviet union, nuclear]
 ---
 
 The Iron Giant asks us, how would American react if a sentient giant robot crash landed from space in the height of the Cold War? We discuss it, and with the help of special guest Daniel Bessner, the Cold War paranoia sweeping the nation in the 1950s and 60s.

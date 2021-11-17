@@ -3,7 +3,7 @@ title: "Kievan Rus'"
 date: 2021-11-17T01:00:00-04:00
 episode: true
 summary: "We venture into the eastern fringes of Europe to look at the origins of Russia, Ukraine, and Belarus: the Kievan Rus'"
-tags: [medival, russia]
+tags: [medieval, russia, ukraine, vikings, slavs]
 ---
 
 Grab your balalaika and drinking horn, because this week we're paddling up the Volga to look at the origins of the Kievan Rus'. Russian Sam takes us on a crash course of the early history of this famous rowdy bunch, from the earliest Roman references to Slavic-speaking tribes to the impact the Rus' have on modern Russian, Ukrainian, and Belarusian nationalism. Along the way, we'll learn about the Rus' often violent hijinks, why Olga of Kiev is an all-time historical girlboss, as well as their intriguing links with the Vikings, a controversial topic at the heart of a historiographical battle almost 300 years in the making.
