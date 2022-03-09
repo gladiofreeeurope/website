@@ -3,7 +3,7 @@ title: "A World Between Worlds"
 date: 2022-02-09T01:00:00-04:00
 episode: true
 summary: "Part 1 of our ongoing series on the happenings during the years between the first and second world wars"
-tags: [war, europe, germany, france, poland]
+tags: [war, europe, germany, france, poland, interwar]
 ---
 
 In this intro to a new series of episodes, Sam B, Liam, and Russian Sam give a brief overview of the turbulence that rocked the entire planet in the 20-year span between the first and second World Wars. Topics in this episode include the unsuccessful workers' revolutions in 1919 Central Europe and the ensuing rise of fascism, the American attempt to "return to normalcy" after war abroad and social unrest at home, and the birth of groundbreaking artistic movements like German Expressionism and New Objectivity that documented the chaotic unease of the interwar period.

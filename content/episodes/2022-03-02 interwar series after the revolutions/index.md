@@ -3,7 +3,8 @@ title: "Interwar Series: After The Revolutions ft. Brendan"
 date: 2022-03-02T01:00:00-04:00
 episode: true
 summary: "We’re joined by our friend Brendan to discuss some of the various small-time revolutions and revolutionaries in Europe and the Americas."
-tags: [europe, communism, socialism, revolution, hungary, germany, ussr]
+tags:
+  [europe, communism, socialism, revolution, hungary, germany, ussr, interwar]
 ---
 
 In early 1919 Lenin said, “We have never been so near to global revolution as we are right now” and he was absolutely right. What he didn’t realize was that the world, or at least the West, would probably not come so close again.
