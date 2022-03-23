@@ -1,6 +1,6 @@
 ---
 title: "Fritz Lang’s M"
-date: 2022-03-09T00:00:00-04:00
+date: 2022-03-09T01:00:00-04:00
 episode: true
 summary: "M tells the story of a town shaken by a string of serial murders by a killer who targets young girls."
 tags: [movie, germany, usa, interwar]
