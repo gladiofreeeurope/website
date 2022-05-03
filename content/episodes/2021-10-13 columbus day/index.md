@@ -8,7 +8,7 @@ tags: [united states, italy, italian]
 
 Why is Christopher Columbus considered a hero to Italian-Americans, and why did they fight so hard to give us a national holiday to celebrate him? We take a long look at the history of the Italian immigrant experience, and how that got us to Columbus Day (now co-named Indigenous Peoples' Day).
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 4wrvdVA28zByxvE1CIFI5c >}}
 

@@ -8,7 +8,7 @@ tags: [scotland, poland, latvia, sweden, courland, tobago]
 
 The New World gave birth to many colonies we know and love today, but it also birthed some colonies that didn’t quite make it to maturity. We go back to the late 1600s and take a look around the colonies of Sweden (New Sweden), Courland (Tobago), and Scotland (New Caledonia (the other one)).
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 5iSJcgiGYWBoHPktK0jISy >}}
 

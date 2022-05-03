@@ -10,7 +10,7 @@ Kevin rejoins us to tell the story of Mandate Palestine through the travails of 
 
 [Part 1 of our Mandate Palestine discussion.](https://gladiofreeeurope.github.io/episodes/2022-03-30-mandate-palestine/)
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Kevin](https://twitter.com/ka_levin).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Kevin](https://twitter.com/ka_levin).
 
 {{< spotify 6itqYbSTAwZ4JWdykQ5idH >}}
 

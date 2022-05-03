@@ -10,7 +10,7 @@ tags: [movie, soviet]
 
 You can watch the full movie on [Youtube](https://www.youtube.com/watch?v=jZ33mMmfvaM).
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
 {{< spotify 1X9wKpOIqQvgSJLnso3hwo >}}
 

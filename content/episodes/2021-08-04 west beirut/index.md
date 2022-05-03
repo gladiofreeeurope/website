@@ -10,7 +10,7 @@ In April, 1975, civil war breaks out; Beirut is partitioned into East and [West 
 
 Our friend Liam (aka Hezbolsonaro) comes on the pod to discuss the movie, and the Lebanese Civil War more broadly.
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Liam](https://twitter.com/Hezbolsonaro).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Liam](https://twitter.com/Hezbolsonaro).
 
 {{< spotify 3xqnaGSYJ1VaaXaRiIUVXw >}}
 

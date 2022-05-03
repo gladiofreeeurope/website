@@ -8,7 +8,7 @@ tags: [christianity, catholicism]
 
 Our friend James returns to give Russian Sam a crash course in Catholicism and how it differs from other Christian denominations.
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), and [James](https://twitter.com/gommunisd).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), and [James](https://twitter.com/gommunisd).
 
 {{< spotify 1Qr3rMCqRUreJf08PLhQ1N >}}
 

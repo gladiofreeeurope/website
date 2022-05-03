@@ -10,7 +10,7 @@ tags: [movie, conspiracy, kennedy]
 
 We’re joined by our friend James to discuss the movie, and the real life political assassinations this movie reminds us of.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [James](https://twitter.com/gommunisd).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [James](https://twitter.com/gommunisd).
 
 {{< spotify 0PyM39WocXlFiMtbo62EJh >}}
 

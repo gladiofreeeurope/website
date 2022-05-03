@@ -8,7 +8,7 @@ tags: [movie, ussr, cuba]
 
 This Soviet made piece of art, [Soy Cuba](https://letterboxd.com/film/i-am-cuba/), tells four stories during the final days of the Batista regime. With the help of Russian Sam and Cuban Jaime we discuss how and why this movie was made, and the response in Cuba and the Soviet Union.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Jaime](https://twitter.com/BangkokRuckus/).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Jaime](https://twitter.com/BangkokRuckus/).
 
 {{< spotify 6prKzEYVdYElYWrYnpDQzL >}}
 

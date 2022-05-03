@@ -8,7 +8,7 @@ tags: [united states, conservatives, movie, military]
 
 We've got a mutiny on our hands in [Seven Days in May](https://letterboxd.com/film/seven-days-in-may/), a 1964 film that explores the idea of a military coup in America. We talk about it, the book it was based on, what JFK thought about it on release, and the general uneasy atmosphere that propelled right wing reaction in the 1960s and onward.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 75Do5me0ttzya5YAUfPnGa >}}
 

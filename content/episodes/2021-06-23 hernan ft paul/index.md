@@ -12,7 +12,7 @@ To discuss this story, and this series, we're joined by Paul Guinan, the writer 
 
 You can read the comic online for free at [bigredhair.com](https://www.bigredhair.com/books/aztec-empire/about/)
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Paul Guinan](https://twitter.com/AztecEmpire1520).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Paul Guinan](https://twitter.com/AztecEmpire1520).
 
 {{< spotify 0W25EvLpjypfOM1oD3u47n >}}
 

@@ -8,7 +8,7 @@ tags: [israel, ideology, zionism, palestine]
 
 Our good friend Kevin is back to help use trace the roots of Zionism as an ideology and the various religious, colonialist, or nationalist strands that existed before 1948.
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Kevin](https://twitter.com/ka_levin).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Kevin](https://twitter.com/ka_levin).
 
 {{< spotify 767li0CHY3kAbsU4vkQMyM >}}
 

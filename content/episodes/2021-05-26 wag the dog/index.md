@@ -8,7 +8,7 @@ tags: [movie, war, albania, kosovo, clinton]
 
 [Wag the Dog](https://letterboxd.com/film/wag-the-dog/) is a movie about a White House that fakes going to war in Albania to bury the news of a President’s sex scandal. Exactly one month after the movie was released, the Monica Lewinsky affair was first made public. We go into the movie and the real world events it magically foretold.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
 {{< spotify 4vVaV1QspPGqIOe55KqzHl >}}
 

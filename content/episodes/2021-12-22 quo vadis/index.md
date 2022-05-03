@@ -8,7 +8,7 @@ tags: [rome, christianity, judaism]
 
 We’re putting the Christ back in Saturnalia this week with an episode on Christianity in the 1st century AD. Maggie guides us through the  history of the early church with the help of the 1951 Hollywood epic [Quo Vadis](https://letterboxd.com/film/quo-vadis/), and explains why these ancient religious communities are so significant to Christians today.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Maggie](https://twitter.com/dialectits).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Maggie](https://twitter.com/dialectits).
 
 {{< spotify 2SUA0wIXKskhkAd8p4Cg1F >}}
 

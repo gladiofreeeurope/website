@@ -8,7 +8,7 @@ tags: [israel, zionism, palestine, ottomans]
 
 Our friend Kevin is back to discuss Palestine for our Interwar Series from the late Ottoman period, to the first World War, to the breakup of the Ottoman Empire.
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Kevin](https://twitter.com/ka_levin).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Kevin](https://twitter.com/ka_levin).
 
 {{< spotify 5LOoILx8xblctCppc2bYTz >}}
 

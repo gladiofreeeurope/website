@@ -8,7 +8,7 @@ tags: ["music", "punk", "nazbol", "USSR"]
 
 In 1984 Siberian singer and songwriter Yegor Letov founded Grazhdanskaya Oborona (Civil Defense), which went on to be the Soviet Union's most famous underground punk band, making Letov one of its most famous musicians. Then in 1993 he co-founded the National Bolshevik Party, the now-banned extremist political party that hoped to unite far right and far left forces. We discuss him, his music, and his journey from punk rock to punk politics.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Abram](https://twitter.com/abnormcore).
 
 {{< spotify 3XoslZtER0RcXwUKYsl8oX >}}
 

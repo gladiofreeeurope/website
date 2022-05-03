@@ -10,7 +10,7 @@ Our friend Fathi joins us to discuss [The Time That Remains](https://letterboxd.
 
 Check out Fathi's website, [Decolonize Palestine](https://decolonizepalestine.com/).
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Fathi](https://twitter.com/amaninthesun).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Fathi](https://twitter.com/amaninthesun).
 
 {{< spotify 3UKtCsU8frW6tRMlWhrpeQ >}}
 

@@ -8,7 +8,7 @@ tags: [medieval, rome, christianity]
 
 Like all bad things, the Roman Empire came to an end. But why did it take hundreds of years for that to happen? This week, the gang guides us through an astonishingly chaotic period when Rome did NOT fall — the Crisis of the Third Century — and explores how late Roman figures like Constantine, Queen Zenobia, and Julian the Apostate created the medieval world.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 3ZeuaVceD2lvd0DhukXXqY >}}
 

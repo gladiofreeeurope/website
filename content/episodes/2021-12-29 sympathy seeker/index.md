@@ -10,7 +10,7 @@ This week, we popped open a bottle of Soviet Champagne to talk about Russian New
 
 All this and more as we dive into the history of holidays in the former USSR and the long history of wars against Christmas.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 1wS7b6SiPs5YcI5gSBZINk >}}
 

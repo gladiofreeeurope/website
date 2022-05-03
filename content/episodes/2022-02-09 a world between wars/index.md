@@ -12,7 +12,7 @@ As this series progresses, expect in-depth discussions of interwar politics and 
 
 This is a huge topic and we're planning on bringing a few friends to help us understand these issues. If you have any suggestions for episode topics or know somebody who might want to come on as a guest, be sure to drop us a line!
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and [Halal Sam](https://twitter.com/halaljew).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Halal Sam](https://twitter.com/halaljew).
 
 {{< spotify 3gMleExzvfQBhqcWq4kv43 >}}
 

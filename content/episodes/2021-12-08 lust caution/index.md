@@ -10,7 +10,7 @@ Japanese-occupied China was a place of immense violence and constant intrigues. 
 
 Check out Carl's podcast, [Silk and Steel](https://silknsteel.podbean.com/).
 
-Hosted by [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [Carl Zha](https://twitter.com/CarlZha/).
+Hosted by [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [Carl Zha](https://twitter.com/CarlZha/).
 
 {{< spotify 6SyyQjmMtMmazVrDIuiECG >}}
 

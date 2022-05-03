@@ -10,7 +10,7 @@ tags: [movie, ireland, war]
 
 We’re joined by our friend James to discuss this movie, the brutality Ireland endured during occupation, the Irish War of Independence, the Irish Civil War, and what effects from this period of history linger to this day.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), [Halal Sam](https://twitter.com/halaljew), and [James](https://twitter.com/gommunisd).
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), [Halal Sam](https://twitter.com/halaljew), and [James](https://twitter.com/gommunisd).
 
 {{< spotify 7uU8l7XAd0WJwUWmATs1OO >}}
 

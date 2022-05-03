@@ -8,7 +8,7 @@ tags: [interwar, kkk, america]
 
 Our good friend Jern joins us from Ohio for a discussion about the interwar reanimation of America's most notorious terrorist organization: the Ku Klux Klan. Jern tells the story of the working-class Ohio immigrants who formed their own secret society known as the Knights of the Flaming Circle to oppose white supremacy and kick the Klan out of the Buckeye state.
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/FillerHandle12), and Jern.
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and Jern.
 
 {{< spotify 7xvEzdMqWzs1N9WGE0Es0b >}}
 
