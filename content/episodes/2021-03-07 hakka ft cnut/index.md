@@ -1,7 +1,7 @@
 ---
 title: "Getting redpilled on the Hakka Question ft. Cnut the Great"
 date: 2021-03-07T12:00:00-04:00
-episode: true
+episode: false
 draft: true
 summary: "Our good friend Cnut the Great joins us to discuss reddit history and Chinese history"
 tags: [China, Reddit]

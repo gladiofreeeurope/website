@@ -1,7 +1,7 @@
 ---
 title: "Channels of Rage"
 date: 2021-04-07T12:00:00-04:00
-episode: true
+episode: false
 draft: true
 summary: We discuss the 2003 Israeli documentary Channels of Rage that follows around a couple of rappers in Tel Aviv and discuss the political situation in which it was filmed in.
 tags: [documentary, israel, palestine, music, hip-hop]

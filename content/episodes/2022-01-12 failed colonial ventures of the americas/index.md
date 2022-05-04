@@ -1,6 +1,6 @@
 ---
 title: "Failed Colonial Ventures of the Americas"
-date: 2022-01-13T01:00:00-04:00
+date: 2022-01-12T01:00:00-04:00
 episode: true
 summary: "The New World gave birth to many colonies we know and love today, but it also birthed some colonies that didn’t quite make it"
 tags: [scotland, poland, latvia, sweden, courland, tobago]

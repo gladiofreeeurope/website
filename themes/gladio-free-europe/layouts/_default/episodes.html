@@ -3,7 +3,7 @@
 <div class="episodes">
   <h1>{{ .Title }}</h1>
 
-  {{ range .Pages.ByPublishDate.Reverse }}
+  {{ range (where .Pages ".Params.episode" true).ByPublishDate.Reverse }}
 
   <div class="episode">
     <div class="cover">

@@ -55,7 +55,7 @@
     <h3>Episodes</h3>
     {{ range where .Pages "Section" "episodes" }}
     <div>
-      {{ range .Pages }}
+      {{ range first 10 .Pages }}
       <div class="episode">
         <div class="cover">
           <a href="{{ .RelPermalink }}">
