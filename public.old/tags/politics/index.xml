@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>politics on Gladio Free Europe</title>
+    <link>https://gladiofreeeurope.github.io/tags/politics/</link>
+    <description>Recent content in politics on Gladio Free Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 01:00:00 -0400</lastBuildDate><atom:link href="https://gladiofreeeurope.github.io/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serpico ft. Derek</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2022-04-27-serpico/</link>
+      <pubDate>Wed, 27 Apr 2022 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2022-04-27-serpico/</guid>
+      <description>Al Pacino plays Frank Serpico, a real life cop who went up against the sleaze and corruption in the 70s NYPD</description>
+    </item>
+    
+  </channel>
+</rss>

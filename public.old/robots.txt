@@ -1,0 +1,3 @@
+User-agent: *
+
+https://gladiofreeeurope.github.io/sitemap.xml

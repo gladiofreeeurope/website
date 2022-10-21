@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tv show on Gladio Free Europe</title>
+    <link>https://gladiofreeeurope.github.io/tags/tv-show/</link>
+    <description>Recent content in tv show on Gladio Free Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jun 2021 01:00:00 -0400</lastBuildDate><atom:link href="https://gladiofreeeurope.github.io/tags/tv-show/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hernán and Aztec Empire ft. Paul Guinan</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-06-23-hernan-ft-paul/</link>
+      <pubDate>Wed, 23 Jun 2021 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-06-23-hernan-ft-paul/</guid>
+      <description>Two works of art offering radically different depicitions the dramatic fall of the mightiest empire in the Americas.</description>
+    </item>
+    
+    <item>
+      <title>True Detective (season 2)</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-06-16-true-detective/</link>
+      <pubDate>Wed, 16 Jun 2021 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-06-16-true-detective/</guid>
+      <description>True Detective S2 explores the world of LA corruption, money, power, and the sleaze the can buy.</description>
+    </item>
+    
+    <item>
+      <title>Barbarians</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-06-02-barbarians/</link>
+      <pubDate>Wed, 02 Jun 2021 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-06-02-barbarians/</guid>
+      <description>Barbarians is a German historical drama that tells the story of Arminus, a Germanic Barbarian raised in Rome, and sent back to Germania a Roman soldier</description>
+    </item>
+    
+  </channel>
+</rss>
