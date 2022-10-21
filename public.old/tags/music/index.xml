@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Gladio Free Europe</title>
+    <link>https://gladiofreeeurope.github.io/tags/music/</link>
+    <description>Recent content in music on Gladio Free Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Aug 2021 01:00:00 -0400</lastBuildDate><atom:link href="https://gladiofreeeurope.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les Rallizes Dénudés ft. Zach</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-08-25-les-rallizes-denudes/</link>
+      <pubDate>Wed, 25 Aug 2021 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-08-25-les-rallizes-denudes/</guid>
+      <description>Les Rallizes Dénudés was a pioneer of the psychedelic drone rock sound, but they&amp;rsquo;re nowhere near as famous as their contemporaries like Boris. Why is that?</description>
+    </item>
+    
+    <item>
+      <title>S1m0ne ft. Pam</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-07-07-simone/</link>
+      <pubDate>Wed, 07 Jul 2021 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-07-07-simone/</guid>
+      <description>What if we replaced actors with computers? A thought provoking question that we&amp;rsquo;re still grappling with the answer to 20 years later.</description>
+    </item>
+    
+    <item>
+      <title>Yegor Letov and the National Bolsheviks</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/</guid>
+      <description>The Soviet Union, Punk Rock, Communism, KGB repression, Fascism, and more in this episode about Siberian singer and songwriter Yegor Letov</description>
+    </item>
+    
+  </channel>
+</rss>

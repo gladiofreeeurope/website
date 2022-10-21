@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>police on Gladio Free Europe</title>
+    <link>https://gladiofreeeurope.github.io/tags/police/</link>
+    <description>Recent content in police on Gladio Free Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 01:00:00 -0400</lastBuildDate><atom:link href="https://gladiofreeeurope.github.io/tags/police/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dirty Harry</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2022-06-15-dirty-harry/</link>
+      <pubDate>Wed, 15 Jun 2022 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2022-06-15-dirty-harry/</guid>
+      <description>As the Zodiac is tormenting San Francisco, a movie about a SFPD cop taking down a serial killer is released</description>
+    </item>
+    
+    <item>
+      <title>Serpico ft. Derek</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2022-04-27-serpico/</link>
+      <pubDate>Wed, 27 Apr 2022 01:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2022-04-27-serpico/</guid>
+      <description>Al Pacino plays Frank Serpico, a real life cop who went up against the sleaze and corruption in the 70s NYPD</description>
+    </item>
+    
+  </channel>
+</rss>
