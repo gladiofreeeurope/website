@@ -1,5 +1,5 @@
 ---
-title: "Morocco (Part 1)"
+title: "History of Morocco (Part 1)"
 date: 2022-08-10T01:00:00-04:00
 episode: true
 summary: "The first part of our exploration of Moroccan history, the most important country that Americans have hardly heard of."
