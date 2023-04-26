@@ -12,6 +12,9 @@ This week, Gladio Free Europe discuss Joel and Ethan Coen's recent classic Hail,
 
 This episode includes some graphic descriptions of abuse.
 
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
+
 Hosted by [Liam](https://twitter.com/LegoRacers2) and [Russian Sam](https://twitter.com/reelCheburashka)
 
 {{< spotify 0CYurdR2FsdY3NAHz1WSg1 >}}

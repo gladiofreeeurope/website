@@ -8,6 +8,9 @@ tags: [us history, thanksgiving, christianity, new england, native americans]
 
 Every kid in America grows up hearing about "the first Thanksgiving" featuring Squanto, the Mayflower, and the surprising nutritional value of dead-fish fertilizer. But this patriotic narrative offers only a tiny glimpse at the astonishing and agonizing history of contact between Europeans and indigenous peoples of New England, who called themselves the Ninnimissinuok. Our multi-part series on 17th century New England begins by examining the beliefs, culture, rapidly-changing politics of nations like the Wampanoag and Narragansett hundreds of years before religious disputes on the other side of the ocean would send English interlopers into their land. We'll also look at colorful figures like George Waymouth and Ferdinando Gorges who were involved in exploration and even failed colonization in New England long before the Pilgrims, as well as the unbelievable stories of indigenous people like Sassacomit and the Tisquantum who were stolen from their homes and brought to Europe, yet managed to make it back in one piece. Last, look into how and why an obscure but probably real celebration between some Pilgrims and Wampanoags became an essential part of our nationalist mythos.
 
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
+
 Hosted by [Liam](https://twitter.com/LegoRacers2), and [Russian Sam](https://twitter.com/reelCheburashka).
 
 {{< spotify 5RdOTnDKeNg3ON2YiuA2xJ >}}

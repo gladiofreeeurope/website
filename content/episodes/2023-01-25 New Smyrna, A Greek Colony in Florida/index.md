@@ -12,6 +12,9 @@ Liam and Russian Sam go back to Florida this week to chart the early history of 
 
 From start to finish, the New Smyrna was a dismal failure, but the history of this colony encapsulates so much that makes Florida unique, and possibly the most cursed corner of America.
 
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
+
 Hosted by [Liam](https://twitter.com/LegoRacers2) and [Russian Sam](https://twitter.com/reelCheburashka)
 
 {{< spotify 3pVwBDWRRrszda7n6x8SGa >}}

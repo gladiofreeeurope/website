@@ -10,6 +10,9 @@ The one and only Matt Christman of Chapo Trap House stopped by in our little val
 
 Christman Interview begins at 14:50
 
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
+
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka) and [Matt Christman](https://twitter.com/cushbomb)
 
 {{< spotify 172UBfMWwZWEanBe6I1ldz >}}

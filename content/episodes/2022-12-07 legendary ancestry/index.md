@@ -10,6 +10,9 @@ Thousands of years ago, the Egyptian princess Scota gave birth to a child who in
 
 Join Gladio Free Europe this to find out why medieval people believed these stories just as strongly as Americans believe that George Washington chopped down a cherry tree. In this episode, Liam and Russian dig into the phenomenon of legendary ancestors: mythical and often supernatural heroes and villains once thought to be the ancestors of entire kingdoms. We recount a few of the most interesting and far-fetched of these stories and explore what this reveals about how medieval people understood their place in the world. Although nobody talks about figures like Scota and Brutus today, their medieval legends played a huge role in the formation of early modern identities and even have unpleasant echoes in nationalism today. Last, we go over why all of us are more likely to be descended from kings and heroes and mythical snake-women than we might think.
 
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
+
 Hosted by [Liam](https://twitter.com/LegoRacers2), and [Russian Sam](https://twitter.com/reelCheburashka).
 
 {{< spotify 0vPrzBSzBSD2tudLeXJy59 >}}

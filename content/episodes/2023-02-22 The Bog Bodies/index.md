@@ -6,9 +6,12 @@ summary: "The bog bodies were subjects of captivation for centuries, but just wh
 tags: [scandinavia, northern europe, iron age, neolithic, prehistory, florida]
 ---
 
-More and more people are talking about bog bodies! Due to great feedback on our most recent episode we're following up our bog talk with an overview of recent developments in wetland archaeology and an overview of some of the most interesting bog sites in Europe. We dive into our favorite finds that we didn't have time to cover in our last episode, like the morbid battlefield of Alken Enge and the beautiful bog dog of Saxony. We expand our scope to bog bodies outside the Iron Age, exploring corpses deposited in bogs from 9,000 BC up to a late medieval murder mystery. Linked below is the new meta-analysis of hundreds of bog remains we draw from in this episode.
+We get knee-deep in the peat this week to examine the bog body phenomenon. Due to their unusually anaerobic nature, bogs across the world have a remarkable ability to preserve any animal matter that falls into them. The cold and wet climate of Northern Europe has proven especially fruitful for the preservation of human corpses, many of which date back to the iron age and beyond. Generations of scholars have been enchanted by these enigmatic and unnerving corpses, whose flesh and faces are so well-preserved that they look like they could have died next week. Moreover, individual bog burials like the Egtved Girl and the Tollund Man offer unparalleled insights into the lives and typically violent deaths of individual people from the deep past. 
 
-Tune into Gladio Free Europe this week for one more dip into the murky mire.
+The existence of these bodies gives a voice to a people who could not read or write, and whose culture is only known from potsherds and petroglyphs and the occasional footnote of a Roman text. At the same time, any true understanding of their lives will always remain beyond our grasp. On this episode of Gladio Free Europe, we show this paradox has tantalized artists, archaeologists, and propagandists for hundreds of years. Join us to see what happens when the dead live again.
+
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
 
 Hosted by [Liam](https://twitter.com/LegoRacers2) and [Russian Sam](https://twitter.com/reelCheburashka)
 

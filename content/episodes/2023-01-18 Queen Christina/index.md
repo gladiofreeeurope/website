@@ -8,6 +8,9 @@ tags: [early modern, film, sweden, modernization, scandinavia]
 
 This week, we are joined by Anton Larsson to discuss the 1933 Greta Garbo film Queen Christina and to trace the enigmatic story of the frenzied rise and fall of the Swedish Empire, the bane of Central and Eastern Europe which reached its apogee during Christina's reign. Surprisingly few Swedes realize that their country was once the center of an overseas empire, but their neighbors sure haven't forgotten.  Sweden, seemingly existing on the periphery, provided a continuous stream of both trade and warfare in a surprisingly vast swathe of the world across many different eras. We look at (hopefully) the last of these while also chatting about the film and looking more closely into the life of the real-life Queen Christina.
 
+---
+[Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
+
 Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka) and [Anton](https://twitter.com/antonyaolarsson)
 
 {{< spotify 7brllWHt5mKyaFGMfCOEWr >}}
