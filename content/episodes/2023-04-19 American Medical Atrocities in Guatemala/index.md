@@ -16,7 +16,7 @@ The US formally apologized for these horrific crimes in the Obama administration
 [Support us on Patreon](https://www.patreon.com/GladioFreeEurope)
 
 
-Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and  [Krebbs](https://twitter.com/KingoKrebbs)
+Hosted by [Liam](https://twitter.com/LegoRacers2), [Russian Sam](https://twitter.com/reelCheburashka), and [Krebbs](https://twitter.com/KingoKrebbs)
 
 {{< spotify 40vuPi5uy5wyI4oCz0AYXD >}}
 
