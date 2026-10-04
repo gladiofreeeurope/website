@@ -1,4 +1,4 @@
-// Canonicals exclude tracking parameters; visitors retain their query and hash.
+// Compatibility for cached old redirect HTML; newly built pages redirect inline.
 (() => {
   const canonical = document.querySelector('link[rel="canonical"]');
   if (!canonical) return;

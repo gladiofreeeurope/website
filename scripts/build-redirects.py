@@ -20,19 +20,20 @@ def build(output):
         if not new_path.startswith("/") or new_path.startswith("//"):
             raise ValueError(f"Invalid destination path: {new_path}")
         canonical = html.escape(DESTINATION + new_path, quote=True)
+        script_target = json.dumps(DESTINATION + new_path).replace("<", "\\u003c")
         page = output / old_path.lstrip("/") / "index.html"
         page.parent.mkdir(parents=True, exist_ok=True)
         page.write_text(f'''<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <script>window.location.replace({script_target} + window.location.search + window.location.hash);</script>
+  <meta http-equiv="refresh" content="0;url={canonical}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="J3pj4z86dEKJNR2MFc3F_HvZg737o34nnm9J0tdq8nM">
   <title>Gladio Free Europe — page moved</title>
   <link rel="canonical" href="{canonical}">
   <meta property="og:url" content="{canonical}">
-  <script src="/migration-redirect.js"></script>
-  <meta http-equiv="refresh" content="0;url={canonical}">
 </head>
 <body><p>This page has moved to <a href="{canonical}">Gladio Free Europe</a>.</p></body>
 </html>

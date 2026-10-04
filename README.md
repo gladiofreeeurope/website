@@ -23,7 +23,10 @@ The old site is served from **master, repository root** in
 The map matches old episode audio identities to current URLs. Supplemental pages,
 topic archives, and episodes missing from the feed have been imported into the
 new site. Each redirect has a matching canonical, immediate meta refresh, and
-JavaScript preserving query parameters and fragments. Unknown URLs show a 404
+inline JavaScript preserving query parameters and fragments. The redirect runs
+immediately after the charset declaration, with no separate script request or
+wait for other page resources. The old script is retained for cached HTML.
+Unknown URLs show a 404
 with useful links rather than redirecting to a guessed destination.
 
 The Hugo head partial consumes the same map. The redirect-only build above
