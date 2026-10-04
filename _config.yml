@@ -1,0 +1,6 @@
+exclude:
+  - episodes
+  - tags
+  - categories
+  - letov
+  - wag-the-dog-cartoons
