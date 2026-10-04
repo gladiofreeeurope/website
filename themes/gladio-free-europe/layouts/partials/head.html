@@ -1,13 +1,5 @@
 <head>
-  <script>
-    const newSite = "https://gladiofreeeurope.com";
-    window.location.replace(
-      newSite +
-        window.location.pathname +
-        window.location.search +
-        window.location.hash
-    );
-  </script>
+  {{ $canonical := partial "migration-url.html" . }}
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
@@ -27,7 +19,11 @@
   <title>Gladio Free Europe • A sort of movie, sort of history postcast</title>
   <meta name="description" content="a sort of movie, sort of history podcast" />
   <meta name="keywords" content="podcast, history, movies" />
-  <link rel="canonical" href="https://gladiofreeeurope.github.io/" />
+  <link rel="canonical" href="{{ $canonical }}" />
+  {{ if ne $canonical .Permalink }}
+  <script src="/migration-redirect.js"></script>
+  <meta http-equiv="refresh" content="0;url={{ $canonical }}" />
+  {{ end }}
 
   <meta property="og:site_name" content="Gladio Free Europe" />
   <meta property="og:title" content="Gladio Free Europe" />
@@ -47,7 +43,7 @@
   />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:url" content="https://gladiofreeeurope.github.io/" />
+  <meta property="og:url" content="{{ $canonical }}" />
 
   <meta name="twitter:site" content="@gladiofreeeuro" />
   <meta name="twitter:title" content="Gladio Free Europe" />
