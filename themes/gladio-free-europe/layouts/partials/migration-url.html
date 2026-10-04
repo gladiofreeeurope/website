@@ -1,0 +1,6 @@
+{{- $path := index (index .Site.Data "migration-redirects") .RelPermalink -}}
+{{- $url := .Permalink -}}
+{{- if $path -}}
+  {{- $url = printf "https://www.gladiofreeeurope.com%s" $path -}}
+{{- end -}}
+{{- return $url -}}
